@@ -1,0 +1,317 @@
+[
+    [
+        0.7981575868547164,
+        {
+            "features.0": 0.33,
+            "features.2": 0.35,
+            "features.5": 0.39,
+            "features.7": 0.37,
+            "features.10": 0.42,
+            "features.12": 0.41,
+            "features.14": 0.41,
+            "features.17": 0.41,
+            "features.19": 0.4,
+            "features.21": 0.4,
+            "features.24": 0.55,
+            "features.26": 0.54,
+            "features.28": 0.55,
+            "classifier.0": 0.84,
+            "classifier.3": 0.82,
+            "classifier.6": 0.83
+        }
+    ],
+    [
+        0.8194848833771968,
+        {
+            "features.0": 0.35,
+            "features.2": 0.36,
+            "features.5": 0.41,
+            "features.7": 0.38,
+            "features.10": 0.44,
+            "features.12": 0.42,
+            "features.14": 0.43,
+            "features.17": 0.43,
+            "features.19": 0.42,
+            "features.21": 0.42,
+            "features.24": 0.57,
+            "features.26": 0.56,
+            "features.28": 0.58,
+            "classifier.0": 0.86,
+            "classifier.3": 0.85,
+            "classifier.6": 0.85
+        }
+    ],
+    [
+        0.8384641938687849,
+        {
+            "features.0": 0.36,
+            "features.2": 0.37,
+            "features.5": 0.42,
+            "features.7": 0.39,
+            "features.10": 0.45,
+            "features.12": 0.44,
+            "features.14": 0.44,
+            "features.17": 0.44,
+            "features.19": 0.43,
+            "features.21": 0.43,
+            "features.24": 0.58,
+            "features.26": 0.57,
+            "features.28": 0.59,
+            "classifier.0": 0.88,
+            "classifier.3": 0.87,
+            "classifier.6": 0.87
+        }
+    ],
+    [
+        0.8579338017150969,
+        {
+            "features.0": 0.37,
+            "features.2": 0.38,
+            "features.5": 0.43,
+            "features.7": 0.4,
+            "features.10": 0.47,
+            "features.12": 0.45,
+            "features.14": 0.45,
+            "features.17": 0.45,
+            "features.19": 0.44,
+            "features.21": 0.44,
+            "features.24": 0.6,
+            "features.26": 0.59,
+            "features.28": 0.61,
+            "classifier.0": 0.9,
+            "classifier.3": 0.89,
+            "classifier.6": 0.89
+        }
+    ],
+    [
+        0.8875098710369551,
+        {
+            "features.0": 0.38,
+            "features.2": 0.4,
+            "features.5": 0.45,
+            "features.7": 0.42,
+            "features.10": 0.49,
+            "features.12": 0.47,
+            "features.14": 0.48,
+            "features.17": 0.48,
+            "features.19": 0.46,
+            "features.21": 0.46,
+            "features.24": 0.63,
+            "features.26": 0.62,
+            "features.28": 0.64,
+            "classifier.0": 0.93,
+            "classifier.3": 0.92,
+            "classifier.6": 0.92
+        }
+    ],
+    [
+        0.8971901118925697,
+        {
+            "features.0": 0.39,
+            "features.2": 0.41,
+            "features.5": 0.46,
+            "features.7": 0.43,
+            "features.10": 0.49,
+            "features.12": 0.48,
+            "features.14": 0.48,
+            "features.17": 0.48,
+            "features.19": 0.47,
+            "features.21": 0.47,
+            "features.24": 0.64,
+            "features.26": 0.63,
+            "features.28": 0.64,
+            "classifier.0": 0.94,
+            "classifier.3": 0.93,
+            "classifier.6": 0.93
+        }
+    ],
+    [
+        0.9097114719607037,
+        {
+            "features.0": 0.4,
+            "features.2": 0.42,
+            "features.5": 0.47,
+            "features.7": 0.45,
+            "features.10": 0.51,
+            "features.12": 0.49,
+            "features.14": 0.5,
+            "features.17": 0.5,
+            "features.19": 0.49,
+            "features.21": 0.49,
+            "features.24": 0.66,
+            "features.26": 0.65,
+            "features.28": 0.66,
+            "classifier.0": 0.95,
+            "classifier.3": 0.95,
+            "classifier.6": 0.95
+        }
+    ],
+    [
+        0.9171393584554597,
+        {
+            "features.0": 0.4,
+            "features.2": 0.42,
+            "features.5": 0.47,
+            "features.7": 0.45,
+            "features.10": 0.51,
+            "features.12": 0.49,
+            "features.14": 0.5,
+            "features.17": 0.5,
+            "features.19": 0.49,
+            "features.21": 0.49,
+            "features.24": 0.66,
+            "features.26": 0.65,
+            "features.28": 0.66,
+            "classifier.0": 0.96,
+            "classifier.3": 0.95,
+            "classifier.6": 0.95
+        }
+    ],
+    [
+        0.9295302751122188,
+        {
+            "features.0": 0.42,
+            "features.2": 0.44,
+            "features.5": 0.49,
+            "features.7": 0.46,
+            "features.10": 0.53,
+            "features.12": 0.51,
+            "features.14": 0.52,
+            "features.17": 0.52,
+            "features.19": 0.5,
+            "features.21": 0.5,
+            "features.24": 0.68,
+            "features.26": 0.67,
+            "features.28": 0.69,
+            "classifier.0": 0.97,
+            "classifier.3": 0.97,
+            "classifier.6": 0.97
+        }
+    ],
+    [
+        0.9402550625061585,
+        {
+            "features.0": 0.43,
+            "features.2": 0.45,
+            "features.5": 0.5,
+            "features.7": 0.47,
+            "features.10": 0.54,
+            "features.12": 0.53,
+            "features.14": 0.53,
+            "features.17": 0.53,
+            "features.19": 0.52,
+            "features.21": 0.52,
+            "features.24": 0.7,
+            "features.26": 0.69,
+            "features.28": 0.7,
+            "classifier.0": 0.98,
+            "classifier.3": 0.98,
+            "classifier.6": 0.98
+        }
+    ],
+    [
+        0.9494848509941818,
+        {
+            "features.0": 0.43,
+            "features.2": 0.45,
+            "features.5": 0.51,
+            "features.7": 0.48,
+            "features.10": 0.55,
+            "features.12": 0.53,
+            "features.14": 0.53,
+            "features.17": 0.54,
+            "features.19": 0.52,
+            "features.21": 0.52,
+            "features.24": 0.7,
+            "features.26": 0.69,
+            "features.28": 0.71,
+            "classifier.0": 0.99,
+            "classifier.3": 0.99,
+            "classifier.6": 0.99
+        }
+    ],
+    [
+        0.9683763711315597,
+        {
+            "features.0": 0.57,
+            "features.2": 0.6,
+            "features.5": 0.66,
+            "features.7": 0.63,
+            "features.10": 0.72,
+            "features.12": 0.7,
+            "features.14": 0.7,
+            "features.17": 0.71,
+            "features.19": 0.69,
+            "features.21": 0.69,
+            "features.24": 0.89,
+            "features.26": 0.88,
+            "features.28": 0.89,
+            "classifier.0": 0.99,
+            "classifier.3": 0.99,
+            "classifier.6": 0.99
+        }
+    ],
+    [
+        0.9620152042882514,
+        {
+            "features.0": 0.52,
+            "features.2": 0.55,
+            "features.5": 0.61,
+            "features.7": 0.58,
+            "features.10": 0.66,
+            "features.12": 0.64,
+            "features.14": 0.64,
+            "features.17": 0.65,
+            "features.19": 0.63,
+            "features.21": 0.63,
+            "features.24": 0.83,
+            "features.26": 0.82,
+            "features.28": 0.83,
+            "classifier.0": 0.99,
+            "classifier.3": 0.99,
+            "classifier.6": 0.99
+        }
+    ],
+    [
+        0.9769228086066651,
+        {
+            "features.0": 0.64,
+            "features.2": 0.67,
+            "features.5": 0.74,
+            "features.7": 0.71,
+            "features.10": 0.8,
+            "features.12": 0.78,
+            "features.14": 0.79,
+            "features.17": 0.79,
+            "features.19": 0.77,
+            "features.21": 0.77,
+            "features.24": 0.97,
+            "features.26": 0.96,
+            "features.28": 0.97,
+            "classifier.0": 0.99,
+            "classifier.3": 0.99,
+            "classifier.6": 0.99
+        }
+    ],
+    [
+        0.9845609718975569,
+        {
+            "features.0": 0.74,
+            "features.2": 0.77,
+            "features.5": 0.84,
+            "features.7": 0.82,
+            "features.10": 0.91,
+            "features.12": 0.9,
+            "features.14": 0.9,
+            "features.17": 0.9,
+            "features.19": 0.89,
+            "features.21": 0.89,
+            "features.24": 0.99,
+            "features.26": 0.99,
+            "features.28": 0.99,
+            "classifier.0": 0.99,
+            "classifier.3": 0.99,
+            "classifier.6": 0.99
+        }
+    ]
+]

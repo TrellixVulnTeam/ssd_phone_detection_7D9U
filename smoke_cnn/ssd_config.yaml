@@ -1,0 +1,10 @@
+model_file: /home/disk/tanjing/jobs/prnet_pytorch/caffe_models/lowrank_binary_test_nobn_float.prototxt
+weight_file: /home/disk/tanjing/jobs/prnet_pytorch/caffe_models/SSD_128x128_lowrank_binary_iter_3000_99.12%_nobn_float.caffemodel
+python_path: /home/disk/tanjing/projects/adas_pruning/20190718_AmbaCaffe_2.1.6_Autocruis/ambacaffe/python
+output_names: detection_out
+height: 128
+width: 128
+channel: 1
+mean: 128.
+scale: 1.
+conf: 0.4

@@ -1,0 +1,12 @@
+model_file: /home/disk/tanjing/jobs/prnet_pytorch/runs/exp113/weights/best.pt
+weight_file:
+python_path: /home/disk/tanjing/jobs/prnet_pytorch/
+output_names: interp10
+height: 128
+width: 128
+channel: 1
+mean: 128.
+scale: 128.
+face_ind: /home/disk/tanjing/jobs/prnet_pytorch/data/face_ind.txt
+uv_kpt_ind: /home/disk/tanjing/jobs/prnet_pytorch/data/uv_kpt_ind_lmk67.txt
+canonical_vertices: /home/disk/tanjing/jobs/prnet_pytorch/mesh_tools/data/canonical_vertices.npy
