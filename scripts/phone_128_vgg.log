@@ -1,0 +1,7 @@
+I0721 11:00:47.665138 27962 train_pro.py:271] restore /home/disk/yenanfei/OMS_phone/weights/float/OMS_phone_128_vgg_float_best.pth
+0it [00:00, ?it/s]Scanning labels /home/disk/yenanfei/DMS_phone/daiyule/VOC2021/ImageSets/test.cache (1705 found, 0 missing, 0 empty, 0 duplicate, for 2120 images): 1705it [00:00, 17042.09it/s]Scanning labels /home/disk/yenanfei/DMS_phone/daiyule/VOC2021/ImageSets/test.cache (2120 found, 0 missing, 0 empty, 0 duplicate, for 2120 images): 2120it [00:00, 17033.65it/s]
+I0721 11:00:47.946183 27962 train_pro.py:299] training augmentation
+Traceback (most recent call last):
+  File "/home/disk/qizhongpei/ssd_pytorch/train_pro.py", line 303, in <module>
+    with open(args.aug_config) as f:
+FileNotFoundError: [Errno 2] No such file or directory: './data/hyp.scratch.yaml'
